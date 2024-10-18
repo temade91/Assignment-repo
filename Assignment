@@ -1,0 +1,18 @@
+Testing in the Software Development Life Cycle:- This is a crucial phase where the developed software is evaluated to ensure it meets specified requirements and is free of defects.The primary aim of testing is to identify bugs, ensure quality, and validate that the software functions as intended.
+
+Types of Testing:-
+
+Unit Testing: Tests individual components or functions for correctness.
+
+Integration Testing: Checks the interaction between integrated components or systems.
+
+System Testing: Validates the entire application’s compliance with the specified requirements.
+
+Acceptance Testing: Ensures the software meets business needs and is ready for delivery to end-users.
+
+Fundamental Approach Used In The Software Testing:-
+
+1.Static Testing:This approach involve examining the code, documentation, or any other project artifacts without executing the software.
+
+2.Dynamic Testing:This approach involves executing the software and evaluating its behavior during runtime to identify defects.
+
